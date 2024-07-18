@@ -2,6 +2,8 @@
 
 This project is an implementation of the classic Snake game using Pygame.
 
+<img src="https://github.com/ashoollakhani/snake-game/blob/main/img/snake-gif.gif" width=50% height=100%>
+
 ## 🎮 How to Play
 
 - Use the arrow keys to control the snake's direction.
