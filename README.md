@@ -20,7 +20,7 @@ This project is an implementation of the classic Snake game using Pygame.
 2. Download or clone the repository:
    
    ```sh
-   git clone https://github.com/your-username/snake-game.git
+   git clone https://github.com/ashoollakhani/snake-game.git
    cd snake-game
    ```
 
